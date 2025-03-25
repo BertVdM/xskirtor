@@ -1,8 +1,8 @@
 # xskirtor: X-ray AGN torus models calculated with SKIRT
 
-## xskirtor_smooth
+## xskirtor_smooth_freepol
 
-Smooth torus model presented in Vander Meulen et al. (2024b).
+Smooth torus model presented in Vander Meulen et al. (2024b), adopting free-electron scattering.
 
 Download the XSPEC table models below:
 
