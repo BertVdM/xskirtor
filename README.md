@@ -48,11 +48,11 @@ Please refer to the X-skirtor_smooth model (Vander Meulen et al., subm.), calcul
 
 --
 
-### Corresponding polarisation model:
+### Polarisation model:
 
-[📥 xskirtor_smooth_freepol](https://users.ugent.be/~bevdrmeu/models/BroadBandPol.zip) — Broadband polarisation model, Stokes I, Q, and U (0.3 - 200 keV, R = 154)
+[📥 xskirtor_smooth_freepol](https://sron365-my.sharepoint.com/:u:/g/personal/b_vander_meulen_sron_nl/IQDin9d-f8mjQIjVKAW_tIGDAY9Fi8dPRKp4zFRXc3fgi0I?e=HdB6Rp) — Broadband polarisation model, Stokes I, Q, and U (0.3 - 200 keV, R = 154)
 
-The corresponding X-skirtor_smooth polarisation model presented in [Vander Meulen et al., 2024b](https://ui.adsabs.harvard.edu/abs/2024A%26A...689A.297V), adopting free-electron scattering.
+The corresponding polarisation model presented in [Vander Meulen et al., 2024b](https://ui.adsabs.harvard.edu/abs/2024A%26A...689A.297V), adopting free-electron scattering.
 
 *Note that XSPEC can only load a polarisation model once polarisation data is loaded.*
 
