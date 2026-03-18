@@ -44,4 +44,10 @@ when the parameters of the reprocessed and direct (i.e. transmitted) flux compon
 
 ### References:
 
-Please refer to X-skirtor_smooth (Vander Meulen et al., subm.), calculated with the SKIRT code ([Vander Meulen et al., 2023](https://ui.adsabs.harvard.edu/abs/2023A%26A...674A.123V)).
+Please refer to the X-skirtor_smooth model (Vander Meulen et al., subm.), calculated with the SKIRT code ([Vander Meulen et al., 2023](https://ui.adsabs.harvard.edu/abs/2023A%26A...674A.123V)).
+
+--
+
+### Bis: Polarisation model:
+
+[📥 xskirtor_smooth_freepol](link) — Broadband polarisation model, assuming free-electron scattering (1.5–15 keV)
