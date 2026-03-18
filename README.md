@@ -13,7 +13,7 @@ X-skirtor_smooth is the first X-ray torus model calculated with SKIRT, modelling
   </tr>
   <tr>
     <td align="center"><strong>Smooth Torus Geometry</strong><br/>X-skirtor_smooth adopts a smooth torus geometry. Future models will focus on more complex geometries.</td>
-    <td align="center"><strong>Example Model Spectrum</strong><br/>High spectral resolution and S/N. >Intrinsic line shapes. Bound-electron scattering.</td>
+    <td align="center"><strong>Example Model Spectrum</strong><br/>High spectral resolution and S/N. Intrinsic line shapes. Bound-electron scattering.</td>
   </tr>
 </table>
 
