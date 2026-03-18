@@ -48,6 +48,9 @@ Please refer to the X-skirtor_smooth model (Vander Meulen et al., subm.), calcul
 
 --
 
-### Bis: Polarisation model:
+### Corresponding polarisation model:
 
 [📥 xskirtor_smooth_freepol](link) — Broadband polarisation model, assuming free-electron scattering (1.5–15 keV)
+
+See [Vander Meulen et al., 2024b](https://ui.adsabs.harvard.edu/abs/2024A%26A...689A.297V) for details.
+
