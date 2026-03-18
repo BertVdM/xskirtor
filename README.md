@@ -17,11 +17,15 @@ X-skirtor_smooth is the first X-ray torus model calculated with SKIRT, modelling
   </tr>
 </table>
 
+--
+
 ### Download the model:
 
 [📥 xskirtor_smooth_xrism](https://sron365-my.sharepoint.com/:u:/g/personal/b_vander_meulen_sron_nl/IQACzE10-7LsT4I2wtFzUWb8AWlHEXdOq-q2qqIefNeGqV4) — Suited for XRISM/Resolve data, with an adaptive energy resolution (1.5–15 keV)
 
 [📥 xskirtor_smooth_ccd](https://sron365-my.sharepoint.com/:u:/g/personal/b_vander_meulen_sron_nl/IQCXli9pZkjgR64Pp1VdN7PhAR-32zEqrzVqxwOfJCjsGWE) — Suited for broadband CCD data, with a spectral resolution of R=433 (0.2–200 keV)
+
+--
 
 ### Use the model in XSPEC:
 
@@ -36,6 +40,8 @@ when the parameters of the reprocessed and direct (i.e. transmitted) flux compon
 
 *The same tables are also supported by: **SPEX**, **SHERPA**, **ISIS**.*
 
+--
+
 ### References:
 
-When using this model, please refer to X-skirtor_smooth (Vander Meulen et al., subm.),<br/> calculated with the X-ray radiative transfer code SKIRT ([Vander Meulen et al., 2023](https://ui.adsabs.harvard.edu/abs/2023A%26A...674A.123V)).
+Please refer to X-skirtor_smooth (Vander Meulen et al., subm.), calculated with the SKIRT code ([Vander Meulen et al., 2023](https://ui.adsabs.harvard.edu/abs/2023A%26A...674A.123V)).
