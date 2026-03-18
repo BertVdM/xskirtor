@@ -4,7 +4,7 @@ X-ray torus models for the microcalorimeter era. Calculated with [SKIRT](https:/
 
 ## I. X-skirtor_smooth: A smooth torus model for XRISM/Resolve
 
-X-skirtor_smooth is the first X-ray torus model calculated with the SKIRT code, modelling X-ray reprocessing by cold gas.
+X-skirtor_smooth is the first X-ray torus model calculated with SKIRT, modelling X-ray reprocessing by cold gas.
 
 <table>
   <tr>
