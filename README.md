@@ -54,5 +54,5 @@ Please refer to X-skirtor_smooth (Vander Meulen et al., subm.), calculated with 
 
 The corresponding polarisation model presented in [Vander Meulen et al., 2024b](https://ui.adsabs.harvard.edu/abs/2024A%26A...689A.297V), adopting free-electron scattering.
 
-*Note that XSPEC can only load a polarisation model once polarisation data is loaded.*
+*Note that XSPEC can only load the polarisation model once polarisation data is loaded.*
 
