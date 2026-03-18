@@ -13,7 +13,7 @@ X-skirtor_smooth is the first X-ray torus model calculated with SKIRT, modelling
   </tr>
   <tr>
     <td align="center"><strong>Smooth Torus Geometry</strong><br/>X-skirtor_smooth adopts a smooth torus geometry.<br/>Future models will focus on more complex geometries.</td>
-    <td align="center"><strong>Example Model Spectrum</strong><br/>High spectral resolution and S/N.<br/>Intrinsic line shapes. Smooth Compton shoulder.</td>
+    <td align="center"><strong>Example Model Spectrum</strong><br/>High spectral resolution and S/N.<br/>Intrinsic line shapes. Bound-electron scattering.</td>
   </tr>
 </table>
 
@@ -52,7 +52,7 @@ Please refer to the X-skirtor_smooth model (Vander Meulen et al., subm.), calcul
 
 [📥 xskirtor_smooth_freepol](https://users.ugent.be/~bevdrmeu/models/BroadBandPol.zip) — Broadband polarisation model, Stokes I, Q, and U (0.3 - 200 keV, R = 154)
 
-The corresponding polarisation model presented in [Vander Meulen et al., 2024b](https://ui.adsabs.harvard.edu/abs/2024A%26A...689A.297V), adopting free-electron scattering.
+The corresponding X-skirtor_smooth polarisation model presented in [Vander Meulen et al., 2024b](https://ui.adsabs.harvard.edu/abs/2024A%26A...689A.297V), adopting free-electron scattering.
 
 *Note that XSPEC can only load a polarisation model once polarisation data is loaded.*
 
