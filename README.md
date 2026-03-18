@@ -8,25 +8,23 @@ X-skirtor_smooth is the first X-ray torus model calculated with the SKIRT code, 
 
 <table>
   <tr>
-    <td><img src="Torus_sketch.png" alt="Smooth torus geometry showing the free model parameters" width="400"/></td>
-    <td><img src="TopRightZoomOnly.png" alt="Example spectrum showing the various lines, the Fe Ka Compton hump, and absorption edges" width="400"/></td>
+    <td><img src="Torus_sketch.png" alt="Smooth torus geometry showing the free model parameters" width="500"/></td>
+    <td><img src="TopRightZoomOnly.png" alt="Example spectrum showing the various lines, the Fe Ka Compton hump, and absorption edges" width="380"/></td>
   </tr>
   <tr>
-    <td align="center"><strong>Torus Geometry</strong><br/>Smooth torus geometry showing the free model parameters<br/>Observed at inclination i</td>
-    <td align="center"><strong>Spectral Features</strong><br/>Example spectrum showing the various lines, the Fe Ka <br/>Compton hump, and absorption edges</td>
+    <td align="center"><strong>Smooth Torus Geometry</strong><br/>X-skirtor_smooth adopts a conventional, smooth torus geometry.<br/>Future X-skirtor models will focus on more complex geometries.</td>
+    <td align="center"><strong>Example Model Spectrum</strong><br/>Illustrating the high spectral resolution and S/N.<br/>Intrinsic line shapes, and a smooth Compton shoulder.</td>
   </tr>
 </table>
 
-### Getting started:
-
-#### 1. Download the model
+### Download the model:
 
 [📥 xskirtor_smooth_xrism](https://sron365-my.sharepoint.com/:u:/g/personal/b_vander_meulen_sron_nl/IQACzE10-7LsT4I2wtFzUWb8AWlHEXdOq-q2qqIefNeGqV4) — Suited for XRISM/Resolve data, with an adaptive energy resolution (1.5–15 keV)
 
 [📥 xskirtor_smooth_ccd](https://sron365-my.sharepoint.com/:u:/g/personal/b_vander_meulen_sron_nl/IQCXli9pZkjgR64Pp1VdN7PhAR-32zEqrzVqxwOfJCjsGWE) — Suited for broadband CCD data, with a spectral resolution of R=433 (0.2–200 keV)
 
-#### 2. Load in XSPEC
-X-skirtor_smooth is provided as an XSPEC table model, which can be loaded in XSPEC as:
+### Use the model in XSPEC:
+
 ```xspec
 model atable{xskirtor_smooth_tot.mod}
 ```
@@ -36,4 +34,8 @@ model atable{xskirtor_smooth_rpc.mod} + atable{xskirtor_smooth_dir.mod}
 ```
 when the parameters of the reprocessed and direct (i.e. transmitted) flux components are tied.
 
-The same tables are also supported by SPEX, SHERPA, ISIS.
+*The same tables are also supported by: **SPEX**, **SHERPA**, **ISIS**.*
+
+### References:
+
+When using this model, please refer to X-skirtor_smooth (Vander Meulen et al., subm.),<br/> calculated with the X-ray radiative transfer code SKIRT ([Vander Meulen et al., 2023](https://ui.adsabs.harvard.edu/abs/2023A%26A...674A.123V)).
