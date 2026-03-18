@@ -21,9 +21,9 @@ X-skirtor_smooth is the first X-ray torus model calculated with the SKIRT code, 
 
 #### 1. Download the model
 
-[📥 xskirtor_smooth_xrism](https://github.com/BertVdM/xskirtor/releases](https://sron365-my.sharepoint.com/:u:/g/personal/b_vander_meulen_sron_nl/IQACzE10-7LsT4I2wtFzUWb8AWlHEXdOq-q2qqIefNeGqV4?e=n3ISkC)) — Microcalorimeter optimized (1.5–2 keV)
+[📥 xskirtor_smooth_xrism](https://sron365-my.sharepoint.com/:u:/g/personal/b_vander_meulen_sron_nl/IQACzE10-7LsT4I2wtFzUWb8AWlHEXdOq-q2qqIefNeGqV4) — Suited for XRISM/Resolve data, with an adaptive energy resolution (1.5–15 keV)
 
-[📥 xskirtor_smooth_ccd](https://sron365-my.sharepoint.com/:u:/g/personal/b_vander_meulen_sron_nl/IQCXli9pZkjgR64Pp1VdN7PhAR-32zEqrzVqxwOfJCjsGWE?e=n74o6x) — High-resolution broadband model  (0.2–200 keV)
+[📥 xskirtor_smooth_ccd](https://sron365-my.sharepoint.com/:u:/g/personal/b_vander_meulen_sron_nl/IQCXli9pZkjgR64Pp1VdN7PhAR-32zEqrzVqxwOfJCjsGWE) — Suited for broadband CCD data, with a spectral resolution of R=433 (0.2–200 keV)
 
 #### 2. Load in XSPEC
 X-skirtor_smooth is provided as an XSPEC table model, which can be loaded in XSPEC as:
