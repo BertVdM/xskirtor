@@ -50,7 +50,7 @@ Please refer to X-skirtor_smooth (Vander Meulen et al., subm.), calculated with 
 
 ### Polarisation model:
 
-[📥 xskirtor_smooth_freepol](https://sron365-my.sharepoint.com/:u:/g/personal/b_vander_meulen_sron_nl/IQDin9d-f8mjQIjVKAW_tIGDAY9Fi8dPRKp4zFRXc3fgi0I?e=HdB6Rp) — Broadband polarisation model, Stokes I, Q, and U (0.3 - 200 keV, R = 154)
+[📥 xskirtor_smooth_freepol](https://sron365-my.sharepoint.com/:u:/g/personal/b_vander_meulen_sron_nl/IQDin9d-f8mjQIjVKAW_tIGDAY9Fi8dPRKp4zFRXc3fgi0I?e=HdB6Rp) — Broadband polarisation model, Stokes I, Q, and U at R = 154 (0.3 - 200 keV)
 
 The corresponding polarisation model presented in [Vander Meulen et al., 2024b](https://ui.adsabs.harvard.edu/abs/2024A%26A...689A.297V), adopting free-electron scattering.
 
